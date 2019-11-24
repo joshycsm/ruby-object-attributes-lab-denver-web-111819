@@ -3,6 +3,9 @@ require 'pry'
 # type "binding.pry" to call the pry method
 
 class Dog 
-  x
+  def name 
+    @name
+  end
+  def name
 end
 
